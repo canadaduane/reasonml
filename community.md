@@ -15,6 +15,10 @@ Since ReasonML is so closely related to OCaml (it shares everything but the synt
 - The [caml-list](https://sympa.inria.fr/sympa/arc/caml-list) mailing list.
 - The [OCaml Beginner's](http://groups.yahoo.com/group/ocaml_beginners) mailing list.
 
-## BuckleScript
+## [BuckleScript](https://github.com/bloomberg/bucklescript)
 
-... still learning about community resources around `bsc`...
+```sh
+npm install -g bs-platform
+bsc -bs-files *.ml *.mli
+```
+
